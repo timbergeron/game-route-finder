@@ -1,0 +1,10 @@
+[
+  {
+    "provider": "My provider",
+    "name": "My provider Denver",
+    "host": "test-host.example.com",
+    "country": "US",
+    "cities": ["Denver"],
+    "asns": [12345]
+  }
+]
